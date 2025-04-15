@@ -1,5 +1,5 @@
 # Folders and files to ignore in a Python project
-documents/ToSort
+documents/Inspiration_folder
 data/embeddings/faiss_index
 /faiss_index/
 index.faiss
