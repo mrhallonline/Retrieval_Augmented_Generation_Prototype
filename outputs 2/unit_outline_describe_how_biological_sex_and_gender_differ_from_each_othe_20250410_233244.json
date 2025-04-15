@@ -1,0 +1,26 @@
+{
+  "title": null,
+  "phenomenon": null,
+  "driving_question": null,
+  "summary": "",
+  "lesson_sets": {},
+  "investigations": {},
+  "ngss": [
+    "- Investigation 1: Exploring the Role of Genes and Chromosomes in Determining Biological Sex",
+    "- Investigation 2: Analyzing the Impact of Genetic Mutations on Sex Characteristics",
+    "- Investigation 3: Examining the Influence of Biological Sex and Gender on Athletic Performance"
+  ],
+  "reflection_prompts": [
+    "- HS-LS1-4: Use a model to illustrate the role of cellular division (mitosis) and differentiation in producing and maintaining complex organisms.",
+    "- HS-LS3-1: Ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for characteristic traits passed from parents to offspring.",
+    "- HS-LS3-2: Make and defend a claim based on evidence that inheritable genetic variations may result from: (1) new genetic combinations through meiosis, (2) viable errors occurring during replication, and/or (3) mutations caused by environmental factors.",
+    "8. Suggested Teacher Reflection Prompts:",
+    "- How did students' understanding of the difference between biological sex and gender evolve throughout the unit?",
+    "- In what ways did students apply their understanding of genetics to explain the development of sex characteristics?",
+    "- How effectively did students use data to analyze the influence of biological sex and gender on athletic performance?",
+    "- How did students demonstrate their understanding of inclusivity and fairness in their proposals for more equitable athletic competitions?"
+  ],
+  "topic": "Describe how biological sex and gender differ from each other. Describe how mutations in a variety of genes can affect the development of internal and external sex characteristics. Explain how characteristics associated with biological sex may affect athletic performance",
+  "grade_level": "9th grade biology",
+  "student_context": "rural students"
+}
