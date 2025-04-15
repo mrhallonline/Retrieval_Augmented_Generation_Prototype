@@ -1,0 +1,29 @@
+{
+  "title": "2. NGSS Anchoring Phenomenon: The observable differences in athletic performance between individuals of different biological sexes, and the influence of genetic mutations on the development of internal and external sex characteristics.",
+  "phenomenon": null,
+  "driving_question": null,
+  "summary": "",
+  "lesson_sets": {
+    "Lesson 1": "Understanding Biological Sex and Gender: This lesson introduces the concepts of biological sex and gender, emphasizing their differences and societal implications.",
+    "Lesson 2": "The Genetics of Sex: Students delve into the genetic basis of biological sex, exploring how chromosomes determine sex.",
+    "Lesson 3": "Genetic Mutations and Sex Characteristics: This lesson focuses on how genetic mutations can influence the development of internal and external sex characteristics.",
+    "Lesson 4": "Biological Sex and Athletic Performance: Students investigate how biological differences can impact athletic performance, using real-world examples and data.",
+    "Lesson 5": "Societal and Cultural Implications: This lesson explores the societal and cultural implications of these biological differences, particularly in the context of their rural community."
+  },
+  "investigations": {
+    "Investigation 1": "Exploring the Genetics of Sex: Students conduct a hands-on investigation to understand how chromosomes determine biological sex.",
+    "Investigation 2": "Genetic Mutations and Sex Characteristics: Students analyze case studies of genetic mutations influencing sex characteristics.",
+    "Investigation 3": "Athletic Performance and Biological Sex: Students analyze data and research studies on the impact of biological sex on athletic performance."
+  },
+  "ngss": [],
+  "reflection_prompts": [
+    "How did students demonstrate their understanding of the difference between biological sex and gender?",
+    "How effectively were students able to analyze and interpret data related to genetic mutations and athletic performance?",
+    "How did students connect the scientific concepts learned in this unit to their own lives and community context?",
+    "How did this unit promote inclusive participation and multiple ways of knowing in science?",
+    "How can I improve this unit to better reflect students\u2019 cultural identities or community experiences?"
+  ],
+  "topic": "Describe how biological sex and gender differ from each other. Describe how mutations in a variety of genes can affect the development of internal and external sex characteristics. Explain how characteristics associated with biological sex may affect athletic performance",
+  "grade_level": "9th grade biology",
+  "student_context": "rural students"
+}
