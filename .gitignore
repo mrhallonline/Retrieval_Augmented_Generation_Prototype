@@ -5,7 +5,7 @@ data/embeddings/faiss_index
 index.faiss
 .env
 Inspiration_folder
-BAK/
+BAK/oldnotebooks
 
 
 # Byte-compiled / optimized / DLL files
