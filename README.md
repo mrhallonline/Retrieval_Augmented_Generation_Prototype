@@ -1,2 +1,2 @@
-# CoDesigner
+# RAG Protoype 
 Prelim Project
