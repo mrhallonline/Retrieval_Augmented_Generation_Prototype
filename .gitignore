@@ -3,7 +3,7 @@ documents/
 documents/Inspiration_folder
 data/
 data/embeddings/
-/faiss_index/
+outputs/faiss_index/
 index.faiss
 .env
 Inspiration_folder
