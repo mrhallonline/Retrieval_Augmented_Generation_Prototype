@@ -1,6 +1,8 @@
 # Folders and files to ignore in a Python project
+documents/
 documents/Inspiration_folder
-data/embeddings/faiss_index
+data/
+data/embeddings/
 /faiss_index/
 index.faiss
 .env
