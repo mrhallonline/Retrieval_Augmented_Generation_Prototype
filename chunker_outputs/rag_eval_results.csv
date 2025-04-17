@@ -1,0 +1,2 @@
+chunker,avg_f1,min_f1,max_f1,token_estimate
+recursive_default,0.5515873015873015,0.3333333333333333,0.75,298

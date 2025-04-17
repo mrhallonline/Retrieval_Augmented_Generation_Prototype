@@ -1,0 +1,4 @@
+chunker,num_chunks,avg_length,stdev_length,over_token_limit,html_file
+recursive,441,2168.1020408163267,301.2180515241532,340,chunker_outputs\recursive_chunks.html
+sentence,441,2168.1020408163267,313.8906092319543,340,chunker_outputs\sentence_chunks.html
+semantic,4243,225.343624793778,263.3901324204223,5,chunker_outputs\semantic_chunks.html
