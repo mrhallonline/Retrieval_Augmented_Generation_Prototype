@@ -1,0 +1,19 @@
+You are continuing the collaborative curriculum design process for a middle school science teacher.
+Expand the following lesson set description into a complete lesson sequence.
+
+Student Context: {student_context}
+Grade Level: {grade_level}
+Lesson Set Description: {lesson_summary}
+
+Use examples from high-quality instructional materials to generate:
+1. Lesson Titles
+2. Learning Objectives
+3. Key Activities or Investigations
+4. Instructional Strategies and Supports
+5. Assessment Opportunities
+6. Optional: Opportunities for integrating cultural knowledge or community assets
+
+# Related Context:
+{context}
+
+# Expanded Lesson Set:

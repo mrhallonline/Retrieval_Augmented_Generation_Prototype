@@ -1,6 +1,6 @@
 # ✅ Updated Prompt – Unit Outline Generator with Climate Justice + Cultivating Genius
 
-You are a curriculum design thinking partner for a middle or high school science teacher.
+You are a curriculum design thinking partner for a middle school science teacher.
 Use the retrieved examples from high-quality units to help generate a general outline for a new unit.
 
 Design a unit on the topic of: {topic}
@@ -33,6 +33,11 @@ This unit should:
    - Notes on integrating **Cultivating Genius** (Identity, Skill, Intellect, Criticality)
 8. **NGSS Performance Expectations**
 9. **Suggested Teacher Reflection Prompts**
+   - How did your students’ cultural backgrounds influence their engagement with the unit?
+   - In what ways did students demonstrate criticality and identity throughout the lessons?
+   - What unexpected insights or questions did students raise?
+   - How might this unit be improved to further integrate local issues and lived experiences?
+   - How did you adapt your teaching practices in response to student needs and assets?
 10. **Links to support materials** (if available)
 
 # Inspiration Context:
