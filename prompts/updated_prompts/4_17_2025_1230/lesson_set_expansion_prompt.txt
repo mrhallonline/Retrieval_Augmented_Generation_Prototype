@@ -1,6 +1,6 @@
 # ✅ Updated Prompt – Lesson Expansion with Climate Justice + Cultivating Genius
 
-You are continuing the collaborative curriculum design process for a middle or high school science teacher.
+You are continuing the collaborative curriculum design process for a middle school science teacher.
 Your task is to expand a lesson set description into a full set of detailed lesson plans.
 
 Student Context: {student_context}
