@@ -1,0 +1,24 @@
+{
+  "title": null,
+  "phenomenon": "The disproportionate impact of climate change on Chicago's South Side communities, particularly focusing on increased flooding and heatwaves.",
+  "driving_question": "How can we use science and community action to address climate justice issues in our local neighborhoods?",
+  "summary": "On the first day, students will explore a recent news story about a severe flooding event in a South Side neighborhood. This will be followed by a discussion on personal experiences with climate-related events in their communities. Students will be encouraged to share stories from their families and neighbors, connecting personal and community experiences to the broader topic of climate justice. The unit begins with students examining the localized effects of climate change, such as flooding and heatwaves, in Chicago. They will investigate the scientific principles behind these phenomena, including weather patterns, greenhouse gases, and urban heat islands. As students progress, they will explore the concept of climate justice, focusing on how marginalized communities are disproportionately affected. The unit will incorporate data analysis and engineering practices as students design solutions to mitigate these impacts. Throughout, students will engage with community members and local organizations to understand ongoing efforts and develop their own action plans. The unit culminates in a community presentation where students propose solutions and advocate for policy changes.",
+  "lesson_sets": {},
+  "investigations": {},
+  "ngss": [
+    "HS-ESS3-1: Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and climate change have influenced human activity.",
+    "HS-ESS3-4: Evaluate or refine a technological solution that reduces impacts of human activities on natural systems.",
+    "HS-ETS1-2: Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering."
+  ],
+  "reflection_prompts": [
+    "How effectively did students connect the scientific concepts to their personal and community experiences?",
+    "In what ways did students demonstrate growth in understanding climate justice?",
+    "How did the unit foster a sense of agency and empowerment among students?",
+    "[Climate Literacy: The Essential Principles of Climate Sciences](http://downloads.climatescience.gov/Literacy/Climate%20Literacy%20Booklet%20Low-Res.pdf)",
+    "[GenDread Climate Crisis Emotional Support Network](https://gendread.substack.com/)",
+    "[Beyond Doom and Gloom: Teaching Climate Change to Foster Empowerment](https://www.nsta.org/connected-science-learning/connected-science-learning-may-june-2023/beyond-doom-and-gloom-teaching)"
+  ],
+  "topic": "Climate Justice",
+  "grade_level": "9th grade biology",
+  "student_context": "Chicago"
+}

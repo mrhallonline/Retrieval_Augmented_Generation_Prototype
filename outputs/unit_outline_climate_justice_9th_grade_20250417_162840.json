@@ -1,0 +1,24 @@
+{
+  "title": null,
+  "phenomenon": "The disproportionate impact of urban heat islands and air pollution in Chicago neighborhoods, particularly affecting communities of color.",
+  "driving_question": "How can we address climate justice in Chicago to ensure equitable environmental health for all communities?",
+  "summary": "Students will begin the unit by examining temperature and air quality data from different neighborhoods in Chicago. They will explore how these environmental factors vary across the city and discuss why certain areas are more affected than others. This localized phenomenon will serve as a springboard for understanding the broader concepts of climate justice and environmental equity. This unit will guide students through an exploration of climate justice, focusing on the local context of Chicago. Students will start by analyzing data on urban heat islands and air pollution, identifying patterns and disparities among neighborhoods. They will investigate the causes of these disparities, including historical redlining and industrial zoning practices. As students develop a deeper understanding of the science behind climate change and its social implications, they will engage in engineering practices to propose solutions that mitigate these effects. Throughout the unit, students will connect their learning to local initiatives and consider how they can contribute to climate action in their communities. The unit will culminate in a project where students design and present actionable plans to promote climate justice in Chicago.",
+  "lesson_sets": {},
+  "investigations": {},
+  "ngss": [
+    "HS-ESS3-1: Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and climate change have influenced human activity.",
+    "HS-ESS3-4: Evaluate or refine a technological solution that reduces impacts of human activities on natural systems.",
+    "HS-ETS1-3: Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints."
+  ],
+  "reflection_prompts": [
+    "How did students engage with the localized phenomenon of climate justice?",
+    "In what ways did students demonstrate growth in understanding the intersection of science and social justice?",
+    "How effectively did the unit promote student agency and advocacy for climate action?",
+    "[Chicago Air Quality Data](https://www.epa.gov/outdoor-air-quality-data)",
+    "[Urban Heat Island Effect Resources](https://www.epa.gov/heat-islands)",
+    "[Cultivating Genius Framework](https://archive.org/details/cultivatinggeniu0000muha)"
+  ],
+  "topic": "climate justice",
+  "grade_level": "9th grade",
+  "student_context": "Chicago"
+}
