@@ -1,10 +1,10 @@
 # Folders and files to ignore in a Python project
 documents/
 documents/Inspiration_folder
-data/
-data/embeddings/
+# data/
+# data/embeddings/
 outputs/faiss_index/
-index.faiss
+# index.faiss
 .env
 Inspiration_folder
 outputs/oldVectorStores
