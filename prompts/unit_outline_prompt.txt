@@ -30,12 +30,17 @@ As you design, consider how this unit can:
 3. **Driving Question**
 4. **Introduction** – Describe how students will be connected to the phenomenon from day 1
 5. **Storyline Arc Summary** – 8-10 sentences in length about the flow of the unit
-6. **Lesson Sets** – List 3–5 lessons, with short descriptions of 3-4 sentences each
+6. Lesson Sets – Provide 3–5 detailed lessons. Each lesson should include:Lesson Title 3–5 sentence description of the activities, student goals, and supports for equity and participation
+Ensure each lesson feels like a mini-story: What students are doing, how they engage with the phenomenon, and what tools or knowledge they're using
+Example:
+Lesson 1: Investigating Heat in Urban Neighborhoods
+Students analyze temperature data from different Chicago neighborhoods using real GIS maps. They identify patterns in heat exposure and reflect on how uneven green space contributes to climate vulnerability. Through guided discussion and journaling, students connect this data to their own neighborhood experiences and begin forming questions for local investigation.
+
 7. **Week-by-Week Plan**: List of 3–5 Key Investigations (3-4 sentences each)
 8. **Notes on integrating **Cultivating Genius** (Identity, Skill, Intellect, Criticality)
-8. **NGSS Performance Expectations**
-9. **Suggested Teacher Reflection Prompts**
-10. **Links to support materials** (if available)
+9. **NGSS Performance Expectations**
+10. **Suggested Teacher Reflection Prompts**
+11. **Links to support materials** (if available)
 
 # Inspiration Context:
 {context}
