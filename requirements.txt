@@ -1,0 +1,19 @@
+# --- Core App ---
+streamlit
+python-dotenv
+
+# --- LangChain Ecosystem ---
+langchain==0.1.16
+langchain-core==0.1.31
+langchain-community==0.0.26
+langchain-openai==0.1.7
+
+# --- Embeddings & LLMs ---
+openai==1.23.2
+tiktoken==0.6.0
+
+# --- Vector Store (FAISS) ---
+faiss-cpu==1.7.4
+
+# --- Utility Libraries ---
+pandas
