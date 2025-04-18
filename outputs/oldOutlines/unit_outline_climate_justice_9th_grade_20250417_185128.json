@@ -1,0 +1,24 @@
+{
+  "title": null,
+  "phenomenon": "The disproportionate impact of urban heat islands and air pollution in predominantly Black and LatinX neighborhoods in Chicago.",
+  "driving_question": "How can we use science and engineering to address climate justice issues in our community?",
+  "summary": "On the first day, students will explore their local neighborhood through a virtual or physical walk, documenting evidence of urban heat islands and air pollution. They will collect data using temperature sensors and air quality monitors, setting the stage for understanding how these environmental issues affect their community. This hands-on experience will connect students to the phenomenon by highlighting real-world problems they encounter daily. The unit begins with students identifying climate justice issues in their community, focusing on urban heat islands and air pollution. They will investigate the science behind these phenomena, learning about the greenhouse effect, energy transfer, and the role of human activities. Through data collection and analysis, students will assess the impact of these issues on health and the environment. They will explore engineering solutions, such as green roofs and urban greening, and evaluate their feasibility in their neighborhoods. The unit culminates in a community presentation where students propose actionable solutions to local stakeholders, empowering them to advocate for change.",
+  "lesson_sets": {},
+  "investigations": {},
+  "ngss": [
+    "HS-ESS3-1: Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and climate change have influenced human activity.",
+    "HS-ESS3-4: Evaluate or refine a technological solution that reduces impacts of human activities on natural systems.",
+    "HS-ETS1-3: Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs."
+  ],
+  "reflection_prompts": [
+    "How did students connect their personal experiences to the climate justice issues discussed?",
+    "What challenges did students face in proposing solutions, and how did they overcome them?",
+    "How did the unit foster a sense of empowerment and advocacy among students?",
+    "[Climate Literacy: The Essential Principles of Climate Sciences](http://downloads.climatescience.gov/Literacy/Climate%20Literacy%20Booklet%20Low-Res.pdf)",
+    "[GenDread Climate Crisis Emotional Support Network](https://gendread.substack.com/)",
+    "[Beyond Doom and Gloom: Teaching Climate Change to Foster Empowerment](https://www.nsta.org/connected-science-learning/connected-science-learning-may-june-2023/beyond-doom-and-gloom-teaching)"
+  ],
+  "topic": "Climate Justice",
+  "grade_level": "9th grade",
+  "student_context": "Black and LatinX students in Chicago"
+}

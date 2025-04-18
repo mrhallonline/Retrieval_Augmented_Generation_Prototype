@@ -1,0 +1,23 @@
+{
+  "title": null,
+  "phenomenon": "Localized flooding in Chicago neighborhoods due to increased rainfall and inadequate infrastructure.",
+  "driving_question": "How can we address climate justice issues in our community to ensure equitable protection and resilience for all residents?",
+  "summary": "On the first day, students will explore recent news articles and videos about flooding in various Chicago neighborhoods, focusing on how these events impact different communities. They will discuss personal experiences or stories from family members about how climate events have affected their lives. This will set the stage for understanding the broader concept of climate justice and its local implications. This unit begins with students examining the localized phenomenon of flooding in Chicago, connecting it to broader climate change issues. They will investigate the science behind climate change, focusing on human contributions and the resulting impacts on weather patterns. The unit will then shift to exploring how these changes disproportionately affect marginalized communities, emphasizing the concept of climate justice. Students will engage in data analysis, examining local climate data and infrastructure maps to identify vulnerable areas. They will also explore engineering solutions and community action plans to mitigate these impacts. The unit concludes with students developing their own proposals for local climate justice initiatives, presenting them to the class and potentially to community stakeholders.",
+  "lesson_sets": {},
+  "investigations": {},
+  "ngss": [
+    "MS-ESS3-3: Apply scientific principles to design a method for monitoring and minimizing human impact on the environment.",
+    "MS-ESS3-5: Ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past century."
+  ],
+  "reflection_prompts": [
+    "How did students connect their personal experiences to the climate justice issues discussed?",
+    "What challenges did students face in understanding the science behind climate change?",
+    "How effectively did students collaborate on their proposals?",
+    "[Climate Literacy: The Essential Principles of Climate Sciences](http://downloads.climatescience.gov/Literacy/Climate%20Literacy%20Booklet%20Low-Res.pdf)",
+    "[GenDread Climate Crisis Emotional Support Network](https://gendread.substack.com/)",
+    "[Fuel Economy Customization Tool](https://www.fueleconomy.gov/feg/Find.do?action=customize&return=https%3A%2F%2Fwww.fueleconomy.gov%2Ffeg%2FFind.do%3Faction%3Dsbs%26id%3D46970%26%23tab1)"
+  ],
+  "topic": "climate justice",
+  "grade_level": "7th",
+  "student_context": "Black and Latinx students in Chicago"
+}
