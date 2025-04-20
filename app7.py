@@ -98,7 +98,7 @@ llm = ChatOpenAI(model="gpt-4o", temperature=0.3)
 # Streamlit UI
 # -----------------------------
 st.set_page_config(page_title="Curriculum CoDesigner", layout="centered")
-st.title("🧠 Curriculum CoDesigner – RAG Unit Planner")
+st.title("🧠 Curriculum CoDesigner – RAG2 Unit Planner")
 
 with st.sidebar:
     st.markdown("""
