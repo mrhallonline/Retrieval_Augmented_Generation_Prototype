@@ -136,7 +136,7 @@ st.subheader("1️⃣ Teacher Inputs")
 with st.form("input_form"):
     topic = st.text_input("Unit Topic or Learning Objectives", "Climate Justice")
     grade_level = st.selectbox("Grade Level", ["6th", "7th", "8th", "9th", "10th", "11th", "12th"])
-    student_context = st.text_area("Describe Your Subject, Student/Community, or additional context", "Science class. Black and Latinx students living in Oakland. Make connections to ecosystems in the Bay Area")
+    student_context = st.text_area("Describe Your Subject, Student/Community, or additional context", "Life sciences. Black and Latinx students living in Oakland. Make connections to ecosystems in the Bay Area")
     submitted = st.form_submit_button("✨ Generate Unit Outline")
 
 if submitted:
