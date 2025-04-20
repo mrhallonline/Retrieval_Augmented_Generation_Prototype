@@ -108,7 +108,7 @@ with st.sidebar:
     From there, we’d like you to think out loud as you read through, evaluate, make sense of, and make changes to that lesson plan or sequence. 
     You are aiming to end up with something at a level of detail that you could actually use to teach tomorrow, and that you are happy with/excited about teaching!
 
-    The most important part of this interview is that ** WE HEAR YOUR IN-PROCESS THINKING AS IT IS HAPPENING **. 
+    The most important part of this interview is that **WE HEAR YOUR IN-PROCESS THINKING AS IT IS HAPPENING**. 
     
     We might prompt you throughout with questions like, “what are you thinking?” or “why are you doing that?” 
     Feel free to also make comments or other annotations in the Google doc. 
