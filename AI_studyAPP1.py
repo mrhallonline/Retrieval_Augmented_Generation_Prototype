@@ -108,7 +108,7 @@
     "# Streamlit UI\n",
     "# -----------------------------\n",
     "st.set_page_config(page_title=\"Curriculum CoDesigner\", layout=\"centered\")\n",
-    "st.title(\"🧠 Curriculum CoDesigner – RAG Unit Planner\")\n",
+    "st.title(\"🧠 Curriculum CoDesigner – RAG1 Unit Planner\")\n",
     "\n",
     "with st.sidebar:\n",
     "    st.markdown(\"\"\"\n",
