@@ -103,7 +103,15 @@ st.title("🧠 Curriculum CoDesigner – Unit Planner")
 with st.sidebar:
     st.markdown("""
     ### Introduction:
-    The goal of this interview is to understand your thinking as you prepare to teach a lesson, and especially how you use ChatGPT as part of that planning. We will not be “grading” or otherwise assessing your lesson plan; our focus is on your planning process. We are hoping to both better understand how teachers actually think about planning (because we don’t think we have very good, or very updated, understandings about this) and how emerging tools like ChatGPT could potentially be useful, and how they might not be useful.    
+    For this part of the interview, your goal is to develop a climate justice-focused lesson or lesson sequence that (a) would make sense for the students in their current classroom placement, and (b) is well-aligned to both the NGSS and to Muhammad’s Cultivating Genius framework. 
+    We will provide a system to produce a Unit Outline and ask that you copy the output into your Google doc that’s shared with us. 
+    From there, we’d like you to think out loud as you read through, evaluate, make sense of, and make changes to that lesson plan or sequence. 
+    You are aiming to end up with something at a level of detail that you could actually use to teach tomorrow, and that you are happy with/excited about teaching!
+
+    The most important part of this interview is that WE HEAR YOUR IN-PROCESS THINKING AS IT IS HAPPENING. 
+    We might prompt you throughout with questions like, “what are you thinking?” or “why are you doing that?” 
+    Feel free to also make comments or other annotations in the Google doc. 
+    
     ### 🧾 How to Use
     1. Input a general topic or more specific learning objectives
     2. Choose a grade level
