@@ -104,8 +104,10 @@ with st.sidebar:
     st.markdown("""
     ### Introduction:
     For this part of the interview, your goal is to develop a climate justice-focused lesson or lesson sequence that (a) would make sense for the students in their current classroom placement, and (b) is well-aligned to both the NGSS and to Muhammad’s Cultivating Genius framework. 
+    
     We will provide a system to produce a Unit Outline and ask that you copy the output into your Google doc that’s shared with us. 
     From there, we’d like you to think out loud as you read through, evaluate, make sense of, and make changes to that lesson plan or sequence. 
+    
     You are aiming to end up with something at a level of detail that you could actually use to teach tomorrow, and that you are happy with/excited about teaching!
 
     The most important part of this interview is that **WE HEAR YOUR IN-PROCESS THINKING AS IT IS HAPPENING**. 
