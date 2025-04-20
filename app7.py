@@ -103,7 +103,7 @@ st.title("🧠 Curriculum CoDesigner – Unit Planner")
 with st.sidebar:
     st.markdown("""
     ### Introduction:
-    For this part of the interview, your goal is to develop a climate justice-focused lesson or lesson sequence that (a) would make sense for the students in their current classroom placement, and (b) is well-aligned to both the NGSS and to Muhammad’s Cultivating Genius framework. 
+    For this part of the interview, your goal is to develop a climate justice-focused lesson or lesson sequence that (a) would make sense for the students in your current classroom setting, and (b) is well-aligned to both the NGSS and to Muhammad’s Cultivating Genius framework. 
     
     We will provide a system to produce a Unit Outline and ask that you copy the output into your Google doc that’s shared with us. 
     From there, we’d like you to think out loud as you read through, evaluate, make sense of, and make changes to that lesson plan or sequence. 
