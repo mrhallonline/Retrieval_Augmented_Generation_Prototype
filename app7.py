@@ -102,15 +102,19 @@ st.title("🧠 Curriculum CoDesigner – Unit Planner")
 
 with st.sidebar:
     st.markdown("""
+    ### Introduction:
+    The goal of this interview is to understand your thinking as you prepare to teach a lesson, and especially how you use chatGPT as part of that planning. We will not be “grading” or otherwise assessing your lesson plan; our focus is on your planning process. We are hoping to both better understand how teachers actually think about planning (because we don’t think we have very good, or very updated, understandings about this) and how emerging tools like chatGPT could potentially be useful and how they might not be useful.    
     ### 🧾 How to Use
     1. Input a general topic or more specific learning objectives
     2. Choose a grade level
     3. Enter any addional context for your class or overall unit.
     4. Click to generate a unit outline.
+    5. Copy what is generated immediately into a Google Doc
+    6. Annotate on the Google Doc (but can go back to the unit geneerator at any time)
     
     Optional: Enable evaluation mode to view retrieved document sources.
 
-    ### 📁 Inspiration Bucket Should Include:
+    ### 📁 Feel free:
     - OpenSciEd Units (PDFs)
     - NGSS-Aligned Science Lessons
     - Equity or Justice Frameworks (e.g., CRP, Cultivating Genius)
