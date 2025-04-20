@@ -91,7 +91,7 @@ unit_prompt = load_prompt_from_file(Path("prompts") / "unit_outline_prompt.txt")
 vectorstore_path = "data/embeddings/faiss_index"
 embedding_model = OpenAIEmbeddings(model="text-embedding-3-small")
 vectorstore = FAISS.load_local(vectorstore_path, embedding_model, allow_dangerous_deserialization=True)
-retriever = vectorstore.as_retriever(search_type="mmr", search_kwargs={"k": 7})
+retriever = vectorstore.as_retriever(search_type="mmr", search_kwargs={"k": 20})
 llm = ChatOpenAI(model="gpt-4o", temperature=0.3)
 
 # -----------------------------
