@@ -91,7 +91,7 @@ unit_prompt = load_prompt_from_file(Path("prompts") / "unit_outline_prompt.txt")
 vectorstore_path = "data/embeddings/faiss_index"
 embedding_model = OpenAIEmbeddings(model="text-embedding-3-small")
 vectorstore = FAISS.load_local(vectorstore_path, embedding_model, allow_dangerous_deserialization=True)
-retriever = vectorstore.as_retriever(search_type="mmr", search_kwargs={"k": 25})
+retriever = vectorstore.as_retriever(search_type="mmr", search_kwargs={"k": 7})
 llm = ChatOpenAI(model="gpt-4o", temperature=0.3)
 
 # -----------------------------
@@ -109,7 +109,7 @@ with st.sidebar:
     2. Choose a grade level
     3. Enter any additional context for your class or overall unit.
     4. Click to generate a unit outline.
-    5. Copy what is generated immediately into a Google Doc
+    5. Copy what is generated immediately into a Google Doc and share that document with the researcher
     6. Annotate on the Google Doc (but you can go back to the unit generator at any time)
 
     """)
