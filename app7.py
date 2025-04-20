@@ -98,14 +98,17 @@ llm = ChatOpenAI(model="gpt-4o", temperature=0.3)
 # Streamlit UI
 # -----------------------------
 st.set_page_config(page_title="Curriculum CoDesigner", layout="centered")
-st.title("🧠 Curriculum CoDesigner – RAG2 Unit Planner")
+st.title("🧠 Curriculum CoDesigner – Unit Planner")
 
 with st.sidebar:
     st.markdown("""
     ### 🧾 How to Use
-    1. Input a topic, grade level, and student context.
-    2. Click to generate a unit outline.
-    3. Optional: Enable evaluation mode to view retrieved document sources.
+    1. Input a general topic or more specific learning objectives
+    2. Choose a grade level
+    3. Enter any addional context for your class or overall unit.
+    4. Click to generate a unit outline.
+    
+    Optional: Enable evaluation mode to view retrieved document sources.
 
     ### 📁 Inspiration Bucket Should Include:
     - OpenSciEd Units (PDFs)
