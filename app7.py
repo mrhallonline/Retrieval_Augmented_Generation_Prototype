@@ -141,7 +141,7 @@ if submitted:
             "context": lambda x: retriever.invoke(x["topic"]),
             "topic": lambda x: x["topic"],
             "student_context": lambda x: x["student_context"],
-            "grade_level": lambda x: x.get("grade_level", "middle school")
+            "grade_level": lambda x: x.get("grade_level")
         })
         | unit_prompt
         | llm
