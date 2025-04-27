@@ -1,0 +1,30 @@
+{
+  "title": null,
+  "phenomenon": "The rising sea levels and increased frequency of wildfires affecting the Bay Area ecosystems, particularly impacting Black and Latinx communities in Oakland.",
+  "driving_question": "How can we understand and address the impacts of climate change on our local ecosystems and communities?",
+  "summary": "On the first day, students will engage with a multimedia presentation showcasing the effects of climate change on the Bay Area, including rising sea levels and wildfires. This will include personal stories from community members affected by these changes, connecting students to the phenomenon through their own community's experiences. The unit begins by introducing students to the concept of climate justice, emphasizing how climate change disproportionately affects marginalized communities. Students will explore the science behind climate change, focusing on local impacts in the Bay Area. They will investigate the role of ecosystems in mitigating climate effects and analyze data on local climate patterns. Throughout the unit, students will engage in problem-solving activities to design solutions that address climate impacts in their community. The unit concludes with students presenting their findings and proposed solutions to a panel of community stakeholders, fostering a sense of agency and empowerment.",
+  "lesson_sets": {},
+  "investigations": {},
+  "ngss": [
+    "MS-ESS3-3: Apply scientific principles to design a method for monitoring and minimizing human impact on the environment.",
+    "MS-ESS3-5: Ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past century.",
+    "Understand the science behind climate change and its local impacts.",
+    "Analyze and interpret climate data to identify trends.",
+    "Design and test solutions to mitigate local climate impacts.",
+    "Engage with community stakeholders to advocate for climate justice.",
+    "Climate change only affects polar regions, not local areas.",
+    "Human actions cannot significantly impact climate change.",
+    "Ecosystems are not connected to climate regulation.",
+    "What do you know about climate change and its effects on our community?",
+    "How do you think local ecosystems help in regulating climate?",
+    "What actions can individuals or communities take to address climate change?"
+  ],
+  "reflection_prompts": [
+    "How did students connect their personal experiences to the climate justice issues discussed?",
+    "What challenges did students face in understanding the data analysis process?",
+    "How effectively did students engage with community stakeholders during their presentations?"
+  ],
+  "topic": "Climate Justice",
+  "grade_level": "6th",
+  "student_context": "Life sciences. Black and Latinx students living in Oakland. Make connections to ecosystems in the Bay Area"
+}

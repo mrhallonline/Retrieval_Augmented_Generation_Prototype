@@ -7,8 +7,8 @@ data/embeddings/faiss_index
 outputs/faiss_index/
 index.faiss
 .env
-Inspiration_folder
-outputs/oldVectorStores
+Inspiration_folder/
+outputs/oldVectorStores/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

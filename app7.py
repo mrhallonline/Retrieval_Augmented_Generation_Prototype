@@ -185,7 +185,7 @@ if submitted:
 
     if eval_mode:
         st.subheader("🔍 Evaluation Mode – Retrieved Chunks")
-        docs = retriever.get_relevant_documents(topic)
+        docs = retriever.invoke(topic)
         log_path = output_dir / f"retrieval_log_{filename_slug}_{timestamp}.csv"
         with open(log_path, "w", encoding="utf-8", newline="") as csvfile:
             writer = csv.writer(csvfile)
